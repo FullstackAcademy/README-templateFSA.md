@@ -6,6 +6,19 @@
 ![GitHub forks](https://img.shields.io/github/forks/nicolerae/README-templateFSA.md?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/nicole_rae?style=social)
 
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://www.fullstackacademy.com/">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvb1JL7ZWrXisAAKRGlhl6AVCmjMQQJAvLCQ&usqp=CAU" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">README-Template</h3>
+
+  <p align="center">
+    A README template for your projects that will impress recruiters!
+    <br />
+
 Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>` to do `<action/task_it_does>`.
 
 Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.
