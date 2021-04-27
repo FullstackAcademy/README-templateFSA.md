@@ -23,7 +23,9 @@ Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>
 
 Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.
 
-## Prerequisites
+*</b> Image Insert Here* </b> - here is where you can place images of your project, a demo gif, and link to a deployed site
+
+## Prerequisites:
 
 Before you begin, ensure you have met the following requirements:
 <!--- These are just example requirements. Add, duplicate or remove as required --->
@@ -31,7 +33,7 @@ Before you begin, ensure you have met the following requirements:
 * You have a `<Windows/Linux/Mac>` machine. State which OS is supported/which is not.
 * You have read `<guide/link/documentation_related_to_project>`.
 
-## Installing <project_name>
+## Installing <project_name>:
 
 To install <project_name>, follow these steps:
 
@@ -44,7 +46,7 @@ Windows:
 ```
 <install_command>
 ```
-## Using <project_name>
+## Using <project_name>:
 
 To use <project_name>, follow these steps:
 
@@ -54,7 +56,7 @@ To use <project_name>, follow these steps:
 
 Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
 
-## Contributing to <project_name>
+## Contributing to <project_name>:
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
 To contribute to <project_name>, follow these steps:
 
@@ -66,21 +68,19 @@ To contribute to <project_name>, follow these steps:
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## Contributors
+## Contributors/Collaborators:
 
 Thanks to the following people who have contributed to this project:
 
-* [@scottydocs](https://github.com/scottydocs) 📖
-* [@cainwatson](https://github.com/cainwatson) 🐛
-* [@calchuchesta](https://github.com/calchuchesta) 🐛
+* [@N2ameOFpersonwhohelpedyou](https://github.com/theirN@me) 📖
 
 You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).
 
-## Contact
+## Contact:
 
 If you want to contact me you can reach me at <nicole.drummond@fullstackacademy.com>.
 
-## License
+## License:
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
 
 This project uses the following license: [<license_name>](<link>).
