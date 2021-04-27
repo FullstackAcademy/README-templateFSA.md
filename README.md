@@ -83,6 +83,8 @@ You might want to consider using something like the [All Contributors](https://g
 
 If you want to contact me you can reach me at <nicole.drummond@fullstackacademy.com>.
 
+Connect with me on <a href="/linkedin.com/in/nicoleraedrummond">LinkedIN</a>
+
 ## License:
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
 
