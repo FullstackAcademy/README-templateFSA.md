@@ -24,7 +24,7 @@ Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>
 Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. 
 Don't go overboard, people won't read it!
 
-*</b> Image Insert Here* </b> - here is where you can place images of your project, a demo gif, and link to a deployed site
+*</b> Image Insert Here* </b> - here is where you can place images of your project, a demo gif, and link to a deployed site - visuals matter!
 <a href="https://www.loom.com/share/04d6c8482c7341fb9b423d10f0bea30b"> <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/04d6c8482c7341fb9b423d10f0bea30b-with-play.gif"> </br> <p>Watch Video</p> </a>
 
 ## Prerequisites:
@@ -79,6 +79,10 @@ Thanks to the following people who have contributed to this project:
 
 You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).
 
+## Roadmap:
+
+If you have ideas for releases in the future, it is a good idea to list them in the README.
+
 ## Contact:
 
 If you want to contact me you can reach me at <nicole.drummond@fullstackacademy.com>.
@@ -89,3 +93,17 @@ Connect with me on <a href="/linkedin.com/in/nicoleraedrummond">LinkedIN</a>
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
 
 This project uses the following license: [<license_name>](<link>).
+
+## Additional Resources:
+
+https://www.makeareadme.com
+
+https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes
+
+https://github.com/scottydocs/README-template.md
+
+https://github.com/kefranabg/readme-md-generator
+
+https://github.com/tkshill
+
+
