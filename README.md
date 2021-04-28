@@ -26,7 +26,7 @@ Don't go overboard, people won't read it!
 
 *</b> Image(s) Insert Here* </b> - here is where you can place images of your project, a demo gif, and link to a deployed site - visuals matter!
 <p align=‘center’/>
-<p align='center'><a href="https://www.loom.com/share/04d6c8482c7341fb9b423d10f0bea30b"> <img style="max-width:300px" src="https://cdn.loom.com/sessions/thumbnails/04d6c8482c7341fb9b423d10f0bea30b-with-play.gif"> </br> <p>Watch Video</p> </a></p>
+<p align='center'><a href="https://www.loom.com/share/04d6c8482c7341fb9b423d10f0bea30b"> <img style="max-width:300px" src="https://cdn.loom.com/sessions/thumbnails/04d6c8482c7341fb9b423d10f0bea30b-with-play.gif"> </br> <p align='center'> Watch Video</p> </a> </p>
 
 ## Prerequisites:
 
