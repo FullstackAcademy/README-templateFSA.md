@@ -24,6 +24,7 @@ Project name is a `<utility/tool/feature>` that allows `<insert_target_audience>
 Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. 
 Don't go overboard, people won't read it!
 
+<!-- PROJECT DEMO GIF, AND IMAGES SHOULD BE PUT HERE -->
 *</b> Image(s) Insert Here* </b> - here is where you can place images of your project, a demo gif, and link to a deployed site - visuals matter!
 <p align=‘center’/>
 <p align='center'><a href="https://www.loom.com/share/04d6c8482c7341fb9b423d10f0bea30b"> <img style="max-width:300px" src="https://cdn.loom.com/sessions/thumbnails/04d6c8482c7341fb9b423d10f0bea30b-with-play.gif"> </br> <p align='center'> Watch Video</p> </a> </p>
