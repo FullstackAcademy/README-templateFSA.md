@@ -88,6 +88,7 @@ You might want to consider using something like the [All Contributors](https://g
 ## Roadmap:
 
 If you have ideas for releases in the future, it is a good idea to list them in the README.
+<!--- This is also a place to share any edge cases you're working on, any current limitations of the project currently and future rollouts  --->
 
 ## Contact:
 
