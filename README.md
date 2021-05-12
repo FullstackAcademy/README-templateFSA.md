@@ -91,10 +91,12 @@ If you have ideas for releases in the future, it is a good idea to list them in 
 <!--- This is also a place to share any edge cases you're working on, any current limitations of the project currently and future rollouts  --->
 
 ## Contact:
-
+<!--- You can add in your linkedin, medium, stack overflow, dev.to account, etc. here --->
 If you want to contact me you can reach me at <nicole.drummond@fullstackacademy.com>.
 
 Connect with me on <a href="/linkedin.com/in/nicoleraedrummond">LinkedIN</a>
+
+Connect with me on <a href="/https://dev.to/nicolerae">Dev.to</a>
 
 ## License:
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
