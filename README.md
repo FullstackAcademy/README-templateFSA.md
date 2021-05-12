@@ -28,6 +28,11 @@ Don't go overboard, people won't read it!
 <p align=‘center’/>
 <p align='center'><a href="https://www.loom.com/share/04d6c8482c7341fb9b423d10f0bea30b"> <img style="max-width:300px" src="https://cdn.loom.com/sessions/thumbnails/04d6c8482c7341fb9b423d10f0bea30b-with-play.gif"> </br> <p align='center'> Watch Video</p> </a> </p>
 
+## Deployed Site <project_name>:
+
+Check out <project_name> here! 
+<!--- You can link to the deployed site, or a link to the demo recording, or etc. here --->
+
 ## Prerequisites:
 
 Before you begin, ensure you have met the following requirements:
