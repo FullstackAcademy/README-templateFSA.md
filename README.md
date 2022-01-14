@@ -10,8 +10,9 @@
 <br />
 <p align="center">
   <a href="https://www.fullstackacademy.com/">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvb1JL7ZWrXisAAKRGlhl6AVCmjMQQJAvLCQ&usqp=CAU" alt="Logo" width="80" height="80">
+    <img src="https://media.glassdoor.com/sqll/980700/fullstack-academy-squareLogo-1634676275302.png" alt="Logo" width="100" height="100">
   </a>
+
 
   <h3 align="center">README-Template</h3>
 
